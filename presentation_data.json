@@ -1,0 +1,22 @@
+{
+    "name": "Tina Kovacova",
+    "netlify_subdomain": "https://angry-payne-5179a1.netlify.com/",
+    "optional_dns": "<YOUR CUSTOM DOMAIN NAME IF YOU HAVE ONE OR PLAN TO USE ONE>",
+    "blog_post_1": {
+        "title": "Visualize Your Datasets with Seaborn Library for Python to Find Hidden Patterns",
+        "url": "https://medium.com/@awenare/visualize-your-datasets-with-seaborn-library-for-python-b742bc299584",
+        "keywords": ["Data Science", "Machine Learning", "Python", "Seaborn", "Data Visualization"]
+    },
+    "blog_post_2": {
+        "title": "3 Cool Ways in Which Machine Learning is Being Used in Virtual Reality",
+        "url": "https://medium.com/@awenare/3-cool-ways-in-which-machine-learning-is-being-used-in-virtual-reality-12b8ece6d2c0",
+        "keywords": ["Machine Learning","Natural Language Processing","Virtual Reality", "Neural Networks", "Augmented Reality"]
+    },
+    "blog_post_3": {
+        "title": "Main Challenges of Dimensionality Reduction",
+        "url": "https://medium.com/@awenare/b232852d59a8",
+        "keywords": ["Dimensionality Reduction","Machine Learning"]
+    },
+    "my_linkedin": "https://www.linkedin.com/in/mkovacova/",
+    "latex": "https://www.overleaf.com/15742574qwypwkjxvbmv#/59887555/"
+}
